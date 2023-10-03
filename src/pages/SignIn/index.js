@@ -1,7 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-import { Background, Container, Logo, AreaInput, Input}
-from './styles'; 
+import { Background, Container, Logo, AreaInput, Input} from './styles'; 
 
 export default function SignIn(){
     return(

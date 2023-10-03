@@ -7,7 +7,7 @@ export const Background = styled.View`
 
 export const Container = styled.KeyboardAvoidingView``;
 
-export const Logo = styled.image``;
+export const Logo = styled.Image``;
 
 export const AreaInput = styled.View``;
 
